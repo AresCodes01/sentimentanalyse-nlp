@@ -3,6 +3,7 @@ Sentimentanalyse auf Deutsch mit BERT Ein einfaches NLP-Projekt zur Erkennung de
 # Sentimentanalyse auf Deutsch mit BERT
 
 🚧 **Dieses Projekt ist noch in Arbeit und wird laufend erweitert.** 🚧
+https://colab.research.google.com/drive/1Itll3hfvlCxzyCW79-fsKZRNhZwIoSF4#scrollTo=4kO3hYotyHCd hier funktioniert es schon
 
 Dieses Projekt führt eine automatische Sentimentanalyse (Stimmungserkennung) deutscher Texte durch.  
 Es verwendet ein vortrainiertes deutsches BERT-Modell aus der Hugging Face Transformers-Bibliothek.
